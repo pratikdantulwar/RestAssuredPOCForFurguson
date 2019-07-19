@@ -1,0 +1,941 @@
+2018-09-07 00:30:18 INFO  listTransactionSummaryforSourceBid:53 - Database Open COnnection for sqlDB
+2018-09-07 00:30:18 INFO  listTransactionSummaryforSourceBid:59 - Database Close Connection for sqlDB
+2018-09-07 00:30:18 INFO  listTransactionSummaryforSourceBid:68 - Database Open Connection for Automation Management
+2018-09-07 00:30:19 INFO  listTransactionSummaryforSourceBid:72 - Database Close Connection for Automation Management
+2018-09-07 00:30:25 INFO  listTransactionSummaryforSourceBid:93 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-07 00:30:25 INFO  listTransactionSummaryforSourceBid:206 - Database Open COnnection for sqlDB
+2018-09-07 00:30:25 INFO  listTransactionSummaryforSourceBid:212 - Database Close Connection for sqlDB
+2018-09-07 00:30:25 INFO  listTransactionSummaryforSourceBid:221 - Database Open Connection for Automation Management
+2018-09-07 00:30:25 INFO  listTransactionSummaryforSourceBid:225 - Database Close Connection for Automation Management
+2018-09-07 00:30:26 INFO  listTransactionSummaryforSourceBid:244 - JSON Response is <?xml version="1.0" encoding="UTF-8" standalone="yes"?><listTransactionSummaryResponse isError="false"><customer mstrCustId="143312" jobCustAcctId="HOUSTONWW" jobCustId="35817" jobCustName="WHARTON-SMITH INC" mainCusAcctId="HOUSTONWW" mainCustId="35815" mainCustName="WHARTON-SMITH INC" totalBid="0" totalInv="984.97" totalVar="-984.97" openOnBid="0" openNotBid="0" invOnBid="0" invNotBid="984.97"/></listTransactionSummaryResponse>
+2018-09-07 02:12:05 INFO  listTransactionSummaryforSourceBid:53 - Database Open COnnection for sqlDB
+2018-09-07 02:12:05 INFO  listTransactionSummaryforSourceBid:59 - Database Close Connection for sqlDB
+2018-09-07 02:12:05 INFO  listTransactionSummaryforSourceBid:68 - Database Open Connection for Automation Management
+2018-09-07 02:12:05 INFO  listTransactionSummaryforSourceBid:72 - Database Close Connection for Automation Management
+2018-09-07 02:12:10 INFO  listTransactionSummaryforSourceBid:93 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-07 02:12:11 INFO  listTransactionSummaryforSourceBid:206 - Database Open COnnection for sqlDB
+2018-09-07 02:12:11 INFO  listTransactionSummaryforSourceBid:212 - Database Close Connection for sqlDB
+2018-09-07 02:12:11 INFO  listTransactionSummaryforSourceBid:221 - Database Open Connection for Automation Management
+2018-09-07 02:12:11 INFO  listTransactionSummaryforSourceBid:225 - Database Close Connection for Automation Management
+2018-09-07 02:12:11 INFO  listTransactionSummaryforSourceBid:244 - JSON Response is <?xml version="1.0" encoding="UTF-8" standalone="yes"?><listTransactionSummaryResponse isError="false"><customer mstrCustId="143312" jobCustAcctId="HOUSTONWW" jobCustId="35817" jobCustName="WHARTON-SMITH INC" mainCusAcctId="HOUSTONWW" mainCustId="35815" mainCustName="WHARTON-SMITH INC" totalBid="0" totalInv="984.97" totalVar="-984.97" openOnBid="0" openNotBid="0" invOnBid="0" invNotBid="984.97"/></listTransactionSummaryResponse>
+2018-09-07 02:42:17 INFO  listTransactionSummaryforSourceBid:54 - Database Open COnnection for sqlDB
+2018-09-07 02:42:17 INFO  listTransactionSummaryforSourceBid:60 - Database Close Connection for sqlDB
+2018-09-07 02:42:17 INFO  listTransactionSummaryforSourceBid:69 - Database Open Connection for Automation Management
+2018-09-07 02:42:18 INFO  listTransactionSummaryforSourceBid:73 - Database Close Connection for Automation Management
+2018-09-07 02:42:22 INFO  listTransactionSummaryforSourceBid:94 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-07 02:42:23 INFO  listTransactionSummaryforSourceBid:207 - Database Open COnnection for sqlDB
+2018-09-07 02:42:23 INFO  listTransactionSummaryforSourceBid:213 - Database Close Connection for sqlDB
+2018-09-07 02:42:23 INFO  listTransactionSummaryforSourceBid:222 - Database Open Connection for Automation Management
+2018-09-07 02:42:23 INFO  listTransactionSummaryforSourceBid:226 - Database Close Connection for Automation Management
+2018-09-07 02:42:23 INFO  listTransactionSummaryforSourceBid:245 - JSON Response is <?xml version="1.0" encoding="UTF-8" standalone="yes"?><listTransactionSummaryResponse isError="false"><customer mstrCustId="143312" jobCustAcctId="HOUSTONWW" jobCustId="35817" jobCustName="WHARTON-SMITH INC" mainCusAcctId="HOUSTONWW" mainCustId="35815" mainCustName="WHARTON-SMITH INC" totalBid="0" totalInv="984.97" totalVar="-984.97" openOnBid="0" openNotBid="0" invOnBid="0" invNotBid="984.97"/></listTransactionSummaryResponse>
+2018-09-07 03:30:12 INFO  listTransactionSummaryforSourceBid:54 - Database Open COnnection for sqlDB
+2018-09-07 03:30:12 INFO  listTransactionSummaryforSourceBid:60 - Database Close Connection for sqlDB
+2018-09-07 03:30:12 INFO  listTransactionSummaryforSourceBid:69 - Database Open Connection for Automation Management
+2018-09-07 03:30:14 INFO  listTransactionSummaryforSourceBid:206 - Database Open COnnection for sqlDB
+2018-09-07 03:30:14 INFO  listTransactionSummaryforSourceBid:212 - Database Close Connection for sqlDB
+2018-09-07 03:30:14 INFO  listTransactionSummaryforSourceBid:221 - Database Open Connection for Automation Management
+2018-09-07 03:30:23 INFO  listTransactionSummaryforSourceBid:54 - Database Open COnnection for sqlDB
+2018-09-07 03:30:23 INFO  listTransactionSummaryforSourceBid:60 - Database Close Connection for sqlDB
+2018-09-07 03:30:23 INFO  listTransactionSummaryforSourceBid:69 - Database Open Connection for Automation Management
+2018-09-07 03:30:24 INFO  listTransactionSummaryforSourceBid:206 - Database Open COnnection for sqlDB
+2018-09-07 03:30:24 INFO  listTransactionSummaryforSourceBid:212 - Database Close Connection for sqlDB
+2018-09-07 03:30:24 INFO  listTransactionSummaryforSourceBid:221 - Database Open Connection for Automation Management
+2018-09-07 03:30:49 INFO  listTransactionSummaryforSourceBid:54 - Database Open COnnection for sqlDB
+2018-09-07 03:30:49 INFO  listTransactionSummaryforSourceBid:60 - Database Close Connection for sqlDB
+2018-09-07 03:30:49 INFO  listTransactionSummaryforSourceBid:69 - Database Open Connection for Automation Management
+2018-09-07 03:34:07 INFO  listTransactionSummaryforSourceBid:54 - Database Open COnnection for sqlDB
+2018-09-07 03:34:07 INFO  listTransactionSummaryforSourceBid:60 - Database Close Connection for sqlDB
+2018-09-07 03:34:07 INFO  listTransactionSummaryforSourceBid:69 - Database Open Connection for Automation Management
+2018-09-07 03:34:07 INFO  listTransactionSummaryforSourceBid:73 - Database Close Connection for Automation Management
+2018-09-07 03:34:11 INFO  listTransactionSummaryforSourceBid:94 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-07 03:34:12 INFO  listTransactionSummaryforSourceBid:206 - Database Open COnnection for sqlDB
+2018-09-07 03:34:12 INFO  listTransactionSummaryforSourceBid:212 - Database Close Connection for sqlDB
+2018-09-07 03:34:12 INFO  listTransactionSummaryforSourceBid:221 - Database Open Connection for Automation Management
+2018-09-07 03:34:12 INFO  listTransactionSummaryforSourceBid:225 - Database Close Connection for Automation Management
+2018-09-07 03:34:12 INFO  listTransactionSummaryforSourceBid:244 - JSON Response is <?xml version="1.0" encoding="UTF-8" standalone="yes"?><listTransactionSummaryResponse isError="false"><customer mstrCustId="143312" jobCustAcctId="HOUSTONWW" jobCustId="35817" jobCustName="WHARTON-SMITH INC" mainCusAcctId="HOUSTONWW" mainCustId="35815" mainCustName="WHARTON-SMITH INC" totalBid="0" totalInv="984.97" totalVar="-984.97" openOnBid="0" openNotBid="0" invOnBid="0" invNotBid="984.97"/></listTransactionSummaryResponse>
+2018-09-07 08:13:35 INFO  listTransactionSummaryforSourceBid:54 - Database Open COnnection for sqlDB
+2018-09-07 08:13:35 INFO  listTransactionSummaryforSourceBid:60 - Database Close Connection for sqlDB
+2018-09-07 08:13:35 INFO  listTransactionSummaryforSourceBid:69 - Database Open Connection for Automation Management
+2018-09-07 09:06:00 INFO  listTransactionSummaryforSourceBid:54 - Database Open COnnection for sqlDB
+2018-09-07 09:06:00 INFO  listTransactionSummaryforSourceBid:60 - Database Close Connection for sqlDB
+2018-09-07 09:06:00 INFO  listTransactionSummaryforSourceBid:69 - Database Open Connection for Automation Management
+2018-09-07 09:06:51 INFO  listTransactionSummaryforSourceBid:54 - Database Open COnnection for sqlDB
+2018-09-07 09:06:52 INFO  listTransactionSummaryforSourceBid:60 - Database Close Connection for sqlDB
+2018-09-07 09:06:52 INFO  listTransactionSummaryforSourceBid:69 - Database Open Connection for Automation Management
+2018-09-07 09:20:45 INFO  listTransactionSummaryforSourceBid:54 - Database Open COnnection for sqlDB
+2018-09-07 09:20:46 INFO  listTransactionSummaryforSourceBid:60 - Database Close Connection for sqlDB
+2018-09-07 09:20:46 INFO  listTransactionSummaryforSourceBid:69 - Database Open Connection for Automation Management
+2018-09-07 09:23:03 INFO  listTransactionSummaryforSourceBid:54 - Database Open COnnection for sqlDB
+2018-09-07 09:23:03 INFO  listTransactionSummaryforSourceBid:60 - Database Close Connection for sqlDB
+2018-09-07 09:23:03 INFO  listTransactionSummaryforSourceBid:69 - Database Open Connection for Automation Management
+2018-09-07 09:35:33 INFO  listTransactionSummaryforSourceBid:54 - Database Open COnnection for sqlDB
+2018-09-07 09:35:33 INFO  listTransactionSummaryforSourceBid:60 - Database Close Connection for sqlDB
+2018-09-07 09:35:33 INFO  listTransactionSummaryforSourceBid:69 - Database Open Connection for Automation Management
+2018-09-07 09:38:42 INFO  listTransactionSummaryforSourceBid:54 - Database Open COnnection for sqlDB
+2018-09-07 09:38:42 INFO  listTransactionSummaryforSourceBid:60 - Database Close Connection for sqlDB
+2018-09-07 09:38:42 INFO  listTransactionSummaryforSourceBid:69 - Database Open Connection for Automation Management
+2018-09-07 09:38:42 INFO  listTransactionSummaryforSourceBid:74 - Database Close Connection for Automation Management
+2018-09-08 12:35:30 INFO  listTransactionSummaryforSourceBid:54 - Database Open COnnection for sqlDB
+2018-09-08 12:35:31 INFO  listTransactionSummaryforSourceBid:60 - Database Close Connection for sqlDB
+2018-09-08 12:35:31 INFO  listTransactionSummaryforSourceBid:69 - Database Open Connection for Automation Management
+2018-09-08 12:41:57 INFO  listTransactionSummaryforSourceBid:54 - Database Open COnnection for sqlDB
+2018-09-08 12:41:58 INFO  listTransactionSummaryforSourceBid:60 - Database Close Connection for sqlDB
+2018-09-08 12:41:58 INFO  listTransactionSummaryforSourceBid:69 - Database Open Connection for Automation Management
+2018-09-08 12:59:37 INFO  listTransactionSummaryforSourceBid:54 - Database Open COnnection for sqlDB
+2018-09-08 12:59:37 INFO  listTransactionSummaryforSourceBid:60 - Database Close Connection for sqlDB
+2018-09-08 12:59:37 INFO  listTransactionSummaryforSourceBid:69 - Database Open Connection for Automation Management
+2018-09-08 12:59:37 INFO  listTransactionSummaryforSourceBid:74 - Database Close Connection for Automation Management
+2018-09-08 13:00:28 INFO  listTransactionSummaryforSourceBid:54 - Database Open COnnection for sqlDB
+2018-09-08 13:00:29 INFO  listTransactionSummaryforSourceBid:60 - Database Close Connection for sqlDB
+2018-09-08 13:00:29 INFO  listTransactionSummaryforSourceBid:69 - Database Open Connection for Automation Management
+2018-09-08 13:03:23 INFO  listTransactionSummaryforSourceBid:54 - Database Open COnnection for sqlDB
+2018-09-08 13:03:24 INFO  listTransactionSummaryforSourceBid:60 - Database Close Connection for sqlDB
+2018-09-08 13:03:24 INFO  listTransactionSummaryforSourceBid:69 - Database Open Connection for Automation Management
+2018-09-09 05:26:57 INFO  listTransactionSummaryforSourceBid:54 - Database Open COnnection for sqlDB
+2018-09-09 05:27:00 INFO  listTransactionSummaryforSourceBid:60 - Database Close Connection for sqlDB
+2018-09-09 05:27:00 INFO  listTransactionSummaryforSourceBid:69 - Database Open Connection for Automation Management
+2018-09-09 05:27:05 INFO  listTransactionSummaryforSourceBid:85 - Database Close Connection for Automation Management
+2018-09-09 20:03:15 INFO  listTransactionSummaryforSourceBid:53 - Database Open COnnection for sqlDB
+2018-09-09 20:03:16 INFO  listTransactionSummaryforSourceBid:59 - Database Close Connection for sqlDB
+2018-09-09 20:03:16 INFO  listTransactionSummaryforSourceBid:65 - Database Open Connection for Automation Management
+2018-09-09 20:03:21 INFO  listTransactionSummaryforSourceBid:84 - Database Close Connection for Automation Management
+2018-09-10 05:47:31 ERROR FrameworkConfigConstants:24 - The properties file could not be loaded
+java.io.FileNotFoundException: application.properties (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at java.io.FileReader.<init>(FileReader.java:58)
+	at com.RestAPITesting.RestUtilities.FrameworkConfigConstants.propertyReader(FrameworkConfigConstants.java:21)
+	at TestRestAPI.SalesOrder.listTransactionSummaryforSourceBid.MTC001(listTransactionSummaryforSourceBid.java:51)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+2018-09-10 05:47:31 ERROR FrameworkConfigConstants:24 - The properties file could not be loaded
+java.io.FileNotFoundException: application.properties (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at java.io.FileReader.<init>(FileReader.java:58)
+	at com.RestAPITesting.RestUtilities.FrameworkConfigConstants.propertyReader(FrameworkConfigConstants.java:21)
+	at TestRestAPI.SalesOrder.listTransactionSummaryforSourceBid.MTC001(listTransactionSummaryforSourceBid.java:52)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+2018-09-10 05:47:32 ERROR FrameworkConfigConstants:24 - The properties file could not be loaded
+java.io.FileNotFoundException: application.properties (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at java.io.FileReader.<init>(FileReader.java:58)
+	at com.RestAPITesting.RestUtilities.FrameworkConfigConstants.propertyReader(FrameworkConfigConstants.java:21)
+	at TestRestAPI.SalesOrder.listTransactionSummaryforSourceBid.MTC001(listTransactionSummaryforSourceBid.java:53)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+2018-09-10 05:47:32 ERROR FrameworkConfigConstants:24 - The properties file could not be loaded
+java.io.FileNotFoundException: application.properties (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at java.io.FileReader.<init>(FileReader.java:58)
+	at com.RestAPITesting.RestUtilities.FrameworkConfigConstants.propertyReader(FrameworkConfigConstants.java:21)
+	at TestRestAPI.SalesOrder.listTransactionSummaryforSourceBid.MTC001(listTransactionSummaryforSourceBid.java:54)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+2018-09-10 05:47:32 ERROR FrameworkConfigConstants:24 - The properties file could not be loaded
+java.io.FileNotFoundException: application.properties (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at java.io.FileReader.<init>(FileReader.java:58)
+	at com.RestAPITesting.RestUtilities.FrameworkConfigConstants.propertyReader(FrameworkConfigConstants.java:21)
+	at TestRestAPI.SalesOrder.listTransactionSummaryforSourceBid.MTC001(listTransactionSummaryforSourceBid.java:55)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+2018-09-10 05:47:32 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 05:49:16 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 05:49:17 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 05:49:18 INFO  listTransactionSummaryforSourceBid:96 - Database Open Connection for sqlDB
+2018-09-10 05:50:28 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 05:50:29 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 05:50:29 INFO  listTransactionSummaryforSourceBid:96 - Database Open Connection for sqlDB
+2018-09-10 05:51:04 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 05:51:05 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 05:51:06 INFO  listTransactionSummaryforSourceBid:96 - Database Open Connection for sqlDB
+2018-09-10 05:51:48 INFO  listTransactionSummaryforSourceBid:102 - Database Close Connection for sqlDB
+2018-09-10 05:51:54 INFO  listTransactionSummaryforSourceBid:123 - JSON Response is <html><head><title>JBoss Web/7.2.2.Final-redhat-1 - JBWEB000064: Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>JBWEB000065: HTTP Status 400 - org.codehaus.jackson.map.JsonMappingException: Unexpected token (START_ARRAY), expected START_OBJECT: need JSON Object to contain As.WRAPPER_OBJECT type information for class com.ferguson.salesorder.api.ListTransactionSummaryRequest
+ at [Source: org.apache.catalina.connector.CoyoteInputStream@6629b2a0; line: 1, column: 1]</h1><HR size="1" noshade="noshade"><p><b>JBWEB000309: type</b> JBWEB000067: Status report</p><p><b>JBWEB000068: message</b> <u>org.codehaus.jackson.map.JsonMappingException: Unexpected token (START_ARRAY), expected START_OBJECT: need JSON Object to contain As.WRAPPER_OBJECT type information for class com.ferguson.salesorder.api.ListTransactionSummaryRequest
+ at [Source: org.apache.catalina.connector.CoyoteInputStream@6629b2a0; line: 1, column: 1]</u></p><p><b>JBWEB000069: description</b> <u>JBWEB000120: The request sent by the client was syntactically incorrect.</u></p><HR size="1" noshade="noshade"><h3>JBoss Web/7.2.2.Final-redhat-1</h3></body></html>
+2018-09-10 05:54:03 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 05:54:04 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 05:54:05 INFO  listTransactionSummaryforSourceBid:96 - Database Open Connection for sqlDB
+2018-09-10 05:54:05 INFO  listTransactionSummaryforSourceBid:102 - Database Close Connection for sqlDB
+2018-09-10 05:55:20 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 05:55:22 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 05:55:22 INFO  listTransactionSummaryforSourceBid:96 - Database Open Connection for sqlDB
+2018-09-10 05:55:22 INFO  listTransactionSummaryforSourceBid:102 - Database Close Connection for sqlDB
+2018-09-10 05:59:22 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 05:59:23 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 05:59:23 INFO  listTransactionSummaryforSourceBid:96 - Database Open Connection for sqlDB
+2018-09-10 05:59:24 INFO  listTransactionSummaryforSourceBid:102 - Database Close Connection for sqlDB
+2018-09-10 05:59:34 INFO  listTransactionSummaryforSourceBid:123 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 05:59:34 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 06:07:53 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 06:07:54 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 06:07:54 INFO  listTransactionSummaryforSourceBid:96 - Database Open Connection for sqlDB
+2018-09-10 06:07:54 INFO  listTransactionSummaryforSourceBid:102 - Database Close Connection for sqlDB
+2018-09-10 06:07:58 INFO  listTransactionSummaryforSourceBid:123 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 06:07:58 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 06:47:58 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 06:47:59 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 06:48:00 INFO  listTransactionSummaryforSourceBid:96 - Database Open Connection for sqlDB
+2018-09-10 06:48:00 INFO  listTransactionSummaryforSourceBid:102 - Database Close Connection for sqlDB
+2018-09-10 06:48:05 INFO  listTransactionSummaryforSourceBid:124 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 06:48:05 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 06:48:05 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 06:48:05 INFO  listTransactionSummaryforSourceBid:96 - Database Open Connection for sqlDB
+2018-09-10 06:48:05 INFO  listTransactionSummaryforSourceBid:102 - Database Close Connection for sqlDB
+2018-09-10 06:48:06 INFO  listTransactionSummaryforSourceBid:124 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 06:48:06 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 06:48:06 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 06:48:06 INFO  listTransactionSummaryforSourceBid:96 - Database Open Connection for sqlDB
+2018-09-10 06:48:06 INFO  listTransactionSummaryforSourceBid:102 - Database Close Connection for sqlDB
+2018-09-10 06:48:49 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 06:48:51 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 06:48:51 INFO  listTransactionSummaryforSourceBid:96 - Database Open Connection for sqlDB
+2018-09-10 06:48:52 INFO  listTransactionSummaryforSourceBid:102 - Database Close Connection for sqlDB
+2018-09-10 06:49:30 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 06:49:32 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 06:49:32 INFO  listTransactionSummaryforSourceBid:96 - Database Open Connection for sqlDB
+2018-09-10 06:49:32 INFO  listTransactionSummaryforSourceBid:102 - Database Close Connection for sqlDB
+2018-09-10 06:49:36 INFO  listTransactionSummaryforSourceBid:124 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 06:49:36 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 06:49:36 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 06:49:36 INFO  listTransactionSummaryforSourceBid:96 - Database Open Connection for sqlDB
+2018-09-10 06:49:36 INFO  listTransactionSummaryforSourceBid:102 - Database Close Connection for sqlDB
+2018-09-10 06:49:36 INFO  listTransactionSummaryforSourceBid:124 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 06:49:36 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 06:52:25 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 06:52:27 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 06:52:27 INFO  listTransactionSummaryforSourceBid:96 - Database Open Connection for sqlDB
+2018-09-10 06:52:27 INFO  listTransactionSummaryforSourceBid:102 - Database Close Connection for sqlDB
+2018-09-10 06:52:32 INFO  listTransactionSummaryforSourceBid:124 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 06:52:32 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 06:52:32 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 06:52:32 INFO  listTransactionSummaryforSourceBid:219 - Database Open COnnection for sqlDB
+2018-09-10 06:52:32 INFO  listTransactionSummaryforSourceBid:225 - Database Close Connection for sqlDB
+2018-09-10 06:52:32 INFO  listTransactionSummaryforSourceBid:234 - Database Open Connection for Automation Management
+2018-09-10 06:52:32 INFO  listTransactionSummaryforSourceBid:238 - Database Close Connection for Automation Management
+2018-09-10 06:53:17 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 06:53:18 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 06:53:19 INFO  listTransactionSummaryforSourceBid:96 - Database Open Connection for sqlDB
+2018-09-10 06:53:19 INFO  listTransactionSummaryforSourceBid:102 - Database Close Connection for sqlDB
+2018-09-10 06:53:24 INFO  listTransactionSummaryforSourceBid:124 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 06:53:24 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 06:55:06 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 06:55:07 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 06:55:07 INFO  listTransactionSummaryforSourceBid:96 - Database Open Connection for sqlDB
+2018-09-10 06:55:07 INFO  listTransactionSummaryforSourceBid:102 - Database Close Connection for sqlDB
+2018-09-10 06:55:11 INFO  listTransactionSummaryforSourceBid:124 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 06:55:11 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 06:56:51 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 06:56:53 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 06:56:53 INFO  listTransactionSummaryforSourceBid:96 - Database Open Connection for sqlDB
+2018-09-10 06:56:53 INFO  listTransactionSummaryforSourceBid:102 - Database Close Connection for sqlDB
+2018-09-10 06:57:15 INFO  listTransactionSummaryforSourceBid:124 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 06:57:15 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:03:55 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 07:03:56 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:03:57 INFO  listTransactionSummaryforSourceBid:96 - Database Open Connection for sqlDB
+2018-09-10 07:03:57 INFO  listTransactionSummaryforSourceBid:102 - Database Close Connection for sqlDB
+2018-09-10 07:04:01 INFO  listTransactionSummaryforSourceBid:124 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 07:04:01 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:06:02 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 07:06:03 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:06:03 INFO  listTransactionSummaryforSourceBid:96 - Database Open Connection for sqlDB
+2018-09-10 07:06:03 INFO  listTransactionSummaryforSourceBid:102 - Database Close Connection for sqlDB
+2018-09-10 07:06:08 INFO  listTransactionSummaryforSourceBid:124 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 07:06:08 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:06:56 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 07:06:57 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:06:57 INFO  listTransactionSummaryforSourceBid:96 - Database Open Connection for sqlDB
+2018-09-10 07:06:57 INFO  listTransactionSummaryforSourceBid:102 - Database Close Connection for sqlDB
+2018-09-10 07:07:09 INFO  listTransactionSummaryforSourceBid:124 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 07:07:09 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:12:23 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 07:12:25 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:12:25 INFO  listTransactionSummaryforSourceBid:96 - Database Open Connection for sqlDB
+2018-09-10 07:12:25 INFO  listTransactionSummaryforSourceBid:102 - Database Close Connection for sqlDB
+2018-09-10 07:12:29 INFO  listTransactionSummaryforSourceBid:124 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 07:12:29 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:16:15 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 07:16:16 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:16:17 INFO  listTransactionSummaryforSourceBid:96 - Database Open Connection for sqlDB
+2018-09-10 07:16:17 INFO  listTransactionSummaryforSourceBid:102 - Database Close Connection for sqlDB
+2018-09-10 07:16:21 INFO  listTransactionSummaryforSourceBid:124 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 07:16:21 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:23:21 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 07:23:22 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:23:23 INFO  listTransactionSummaryforSourceBid:96 - Database Open Connection for sqlDB
+2018-09-10 07:23:23 INFO  listTransactionSummaryforSourceBid:102 - Database Close Connection for sqlDB
+2018-09-10 07:23:27 INFO  listTransactionSummaryforSourceBid:124 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 07:23:28 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:23:28 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:23:28 INFO  listTransactionSummaryforSourceBid:96 - Database Open Connection for sqlDB
+2018-09-10 07:23:28 INFO  listTransactionSummaryforSourceBid:102 - Database Close Connection for sqlDB
+2018-09-10 07:23:28 INFO  listTransactionSummaryforSourceBid:124 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 07:23:28 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:23:28 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:23:28 INFO  listTransactionSummaryforSourceBid:96 - Database Open Connection for sqlDB
+2018-09-10 07:23:28 INFO  listTransactionSummaryforSourceBid:102 - Database Close Connection for sqlDB
+2018-09-10 07:23:28 INFO  listTransactionSummaryforSourceBid:124 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 07:23:28 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:26:39 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 07:26:40 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:26:40 INFO  listTransactionSummaryforSourceBid:96 - Database Open Connection for sqlDB
+2018-09-10 07:26:40 INFO  listTransactionSummaryforSourceBid:102 - Database Close Connection for sqlDB
+2018-09-10 07:26:44 INFO  listTransactionSummaryforSourceBid:124 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 07:26:45 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:26:45 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:26:45 INFO  listTransactionSummaryforSourceBid:96 - Database Open Connection for sqlDB
+2018-09-10 07:26:45 INFO  listTransactionSummaryforSourceBid:102 - Database Close Connection for sqlDB
+2018-09-10 07:26:45 INFO  listTransactionSummaryforSourceBid:124 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 07:26:45 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:26:45 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:26:45 INFO  listTransactionSummaryforSourceBid:96 - Database Open Connection for sqlDB
+2018-09-10 07:26:45 INFO  listTransactionSummaryforSourceBid:102 - Database Close Connection for sqlDB
+2018-09-10 07:26:45 INFO  listTransactionSummaryforSourceBid:124 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 07:26:45 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:27:52 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 07:27:53 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:27:53 INFO  listTransactionSummaryforSourceBid:96 - Database Open Connection for sqlDB
+2018-09-10 07:27:54 INFO  listTransactionSummaryforSourceBid:102 - Database Close Connection for sqlDB
+2018-09-10 07:27:58 INFO  listTransactionSummaryforSourceBid:124 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 07:27:58 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:28:32 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 07:28:33 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:28:33 INFO  listTransactionSummaryforSourceBid:96 - Database Open Connection for sqlDB
+2018-09-10 07:28:33 INFO  listTransactionSummaryforSourceBid:102 - Database Close Connection for sqlDB
+2018-09-10 07:28:38 INFO  listTransactionSummaryforSourceBid:124 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 07:28:38 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:29:29 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 07:29:30 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:29:31 INFO  listTransactionSummaryforSourceBid:96 - Database Open Connection for sqlDB
+2018-09-10 07:29:31 INFO  listTransactionSummaryforSourceBid:102 - Database Close Connection for sqlDB
+2018-09-10 07:29:36 INFO  listTransactionSummaryforSourceBid:124 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 07:29:36 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:32:13 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 07:32:14 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:32:14 INFO  listTransactionSummaryforSourceBid:96 - Database Open Connection for sqlDB
+2018-09-10 07:32:15 INFO  listTransactionSummaryforSourceBid:102 - Database Close Connection for sqlDB
+2018-09-10 07:32:19 INFO  listTransactionSummaryforSourceBid:124 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 07:32:19 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:36:40 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 07:36:41 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:36:41 INFO  listTransactionSummaryforSourceBid:97 - Database Open Connection for sqlDB
+2018-09-10 07:36:41 INFO  listTransactionSummaryforSourceBid:103 - Database Close Connection for sqlDB
+2018-09-10 07:36:46 INFO  listTransactionSummaryforSourceBid:125 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 07:36:46 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:44:45 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 07:44:46 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:44:46 INFO  listTransactionSummaryforSourceBid:98 - Database Open Connection for sqlDB
+2018-09-10 07:44:46 INFO  listTransactionSummaryforSourceBid:104 - Database Close Connection for sqlDB
+2018-09-10 07:44:51 INFO  listTransactionSummaryforSourceBid:126 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 07:44:51 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:45:51 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 07:45:52 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:45:53 INFO  listTransactionSummaryforSourceBid:98 - Database Open Connection for sqlDB
+2018-09-10 07:45:53 INFO  listTransactionSummaryforSourceBid:104 - Database Close Connection for sqlDB
+2018-09-10 07:45:58 INFO  listTransactionSummaryforSourceBid:126 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 07:45:58 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:56:07 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 07:56:08 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 07:56:08 INFO  listTransactionSummaryforSourceBid:98 - Database Open Connection for sqlDB
+2018-09-10 07:56:08 INFO  listTransactionSummaryforSourceBid:104 - Database Close Connection for sqlDB
+2018-09-10 07:56:12 INFO  listTransactionSummaryforSourceBid:126 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 07:56:12 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 09:04:19 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 09:04:21 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 09:04:21 INFO  listTransactionSummaryforSourceBid:98 - Database Open Connection for sqlDB
+2018-09-10 09:04:21 INFO  listTransactionSummaryforSourceBid:104 - Database Close Connection for sqlDB
+2018-09-10 09:04:26 INFO  listTransactionSummaryforSourceBid:126 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 09:04:26 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 09:04:26 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 09:04:26 INFO  listTransactionSummaryforSourceBid:221 - Database Open COnnection for sqlDB
+2018-09-10 09:04:26 INFO  listTransactionSummaryforSourceBid:227 - Database Close Connection for sqlDB
+2018-09-10 09:04:26 INFO  listTransactionSummaryforSourceBid:236 - Database Open Connection for Automation Management
+2018-09-10 09:04:26 INFO  listTransactionSummaryforSourceBid:240 - Database Close Connection for Automation Management
+2018-09-10 09:15:29 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 09:15:30 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 09:15:30 INFO  listTransactionSummaryforSourceBid:98 - Database Open Connection for sqlDB
+2018-09-10 09:15:31 INFO  listTransactionSummaryforSourceBid:104 - Database Close Connection for sqlDB
+2018-09-10 09:15:35 INFO  listTransactionSummaryforSourceBid:126 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 09:15:35 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 09:15:36 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 09:15:36 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 09:15:36 INFO  listTransactionSummaryforSourceBid:264 - Database Open COnnection for sqlDB
+2018-09-10 09:15:36 INFO  listTransactionSummaryforSourceBid:272 - Database Close Connection for Automation Management
+2018-09-10 09:15:36 INFO  listTransactionSummaryforSourceBid:293 - JSON Response is <?xml version="1.0" encoding="UTF-8" standalone="yes"?><listTransactionSummaryResponse isError="false"><customer mstrCustId="143312" jobCustAcctId="HOUSTONWW" jobCustId="35817" jobCustName="WHARTON-SMITH INC" mainCusAcctId="HOUSTONWW" mainCustId="35815" mainCustName="WHARTON-SMITH INC" totalBid="0" totalInv="984.97" totalVar="-984.97" openOnBid="0" openNotBid="0" invOnBid="0" invNotBid="984.97"/></listTransactionSummaryResponse>
+2018-09-10 09:15:36 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 09:39:37 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 09:39:38 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 09:39:38 INFO  listTransactionSummaryforSourceBid:99 - Database Open Connection for sqlDB
+2018-09-10 09:39:38 INFO  listTransactionSummaryforSourceBid:105 - Database Close Connection for sqlDB
+2018-09-10 09:39:42 INFO  listTransactionSummaryforSourceBid:127 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 09:39:43 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 09:39:43 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 09:39:43 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 09:39:44 INFO  listTransactionSummaryforSourceBid:265 - Database Open COnnection for sqlDB
+2018-09-10 09:39:44 INFO  listTransactionSummaryforSourceBid:273 - Database Close Connection for Automation Management
+2018-09-10 09:39:44 INFO  listTransactionSummaryforSourceBid:294 - JSON Response is <?xml version="1.0" encoding="UTF-8" standalone="yes"?><listTransactionSummaryResponse isError="false"><customer mstrCustId="143312" jobCustAcctId="HOUSTONWW" jobCustId="35817" jobCustName="WHARTON-SMITH INC" mainCusAcctId="HOUSTONWW" mainCustId="35815" mainCustName="WHARTON-SMITH INC" totalBid="0" totalInv="984.97" totalVar="-984.97" openOnBid="0" openNotBid="0" invOnBid="0" invNotBid="984.97"/></listTransactionSummaryResponse>
+2018-09-10 09:39:44 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 09:40:14 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 09:40:15 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 09:40:16 INFO  listTransactionSummaryforSourceBid:99 - Database Open Connection for sqlDB
+2018-09-10 09:40:16 INFO  listTransactionSummaryforSourceBid:105 - Database Close Connection for sqlDB
+2018-09-10 09:40:20 INFO  listTransactionSummaryforSourceBid:127 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 09:40:20 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 09:40:21 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 09:40:21 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 09:40:21 INFO  listTransactionSummaryforSourceBid:265 - Database Open COnnection for sqlDB
+2018-09-10 09:40:21 INFO  listTransactionSummaryforSourceBid:273 - Database Close Connection for Automation Management
+2018-09-10 09:40:21 INFO  listTransactionSummaryforSourceBid:294 - JSON Response is <?xml version="1.0" encoding="UTF-8" standalone="yes"?><listTransactionSummaryResponse isError="false"><customer mstrCustId="143312" jobCustAcctId="HOUSTONWW" jobCustId="35817" jobCustName="WHARTON-SMITH INC" mainCusAcctId="HOUSTONWW" mainCustId="35815" mainCustName="WHARTON-SMITH INC" totalBid="0" totalInv="984.97" totalVar="-984.97" openOnBid="0" openNotBid="0" invOnBid="0" invNotBid="984.97"/></listTransactionSummaryResponse>
+2018-09-10 09:40:21 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 09:43:19 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 09:43:20 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 09:43:20 INFO  listTransactionSummaryforSourceBid:99 - Database Open Connection for sqlDB
+2018-09-10 09:43:20 INFO  listTransactionSummaryforSourceBid:105 - Database Close Connection for sqlDB
+2018-09-10 09:43:24 INFO  listTransactionSummaryforSourceBid:127 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 09:43:24 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 09:43:25 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 09:43:25 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 09:43:25 INFO  listTransactionSummaryforSourceBid:265 - Database Open COnnection for sqlDB
+2018-09-10 09:43:25 INFO  listTransactionSummaryforSourceBid:273 - Database Close Connection for Automation Management
+2018-09-10 09:43:25 INFO  listTransactionSummaryforSourceBid:294 - JSON Response is <?xml version="1.0" encoding="UTF-8" standalone="yes"?><listTransactionSummaryResponse isError="false"><customer mstrCustId="143312" jobCustAcctId="HOUSTONWW" jobCustId="35817" jobCustName="WHARTON-SMITH INC" mainCusAcctId="HOUSTONWW" mainCustId="35815" mainCustName="WHARTON-SMITH INC" totalBid="0" totalInv="984.97" totalVar="-984.97" openOnBid="0" openNotBid="0" invOnBid="0" invNotBid="984.97"/></listTransactionSummaryResponse>
+2018-09-10 09:43:25 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 09:56:18 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 09:56:20 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 09:56:20 INFO  listTransactionSummaryforSourceBid:99 - Database Open Connection for sqlDB
+2018-09-10 09:56:20 INFO  listTransactionSummaryforSourceBid:105 - Database Close Connection for sqlDB
+2018-09-10 09:56:24 INFO  listTransactionSummaryforSourceBid:127 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 09:56:25 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 09:56:25 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 09:56:25 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 09:56:25 INFO  listTransactionSummaryforSourceBid:264 - Database Open COnnection for sqlDB
+2018-09-10 09:56:25 INFO  listTransactionSummaryforSourceBid:272 - Database Close Connection for Automation Management
+2018-09-10 09:56:25 INFO  listTransactionSummaryforSourceBid:293 - JSON Response is <?xml version="1.0" encoding="UTF-8" standalone="yes"?><listTransactionSummaryResponse isError="false"><customer mstrCustId="143312" jobCustAcctId="HOUSTONWW" jobCustId="35817" jobCustName="WHARTON-SMITH INC" mainCusAcctId="HOUSTONWW" mainCustId="35815" mainCustName="WHARTON-SMITH INC" totalBid="0" totalInv="984.97" totalVar="-984.97" openOnBid="0" openNotBid="0" invOnBid="0" invNotBid="984.97"/></listTransactionSummaryResponse>
+2018-09-10 09:56:25 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 09:58:53 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 09:58:54 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 09:58:55 INFO  listTransactionSummaryforSourceBid:99 - Database Open Connection for sqlDB
+2018-09-10 09:58:55 INFO  listTransactionSummaryforSourceBid:105 - Database Close Connection for sqlDB
+2018-09-10 09:58:59 INFO  listTransactionSummaryforSourceBid:127 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 09:58:59 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 09:59:00 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 09:59:00 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 09:59:00 INFO  listTransactionSummaryforSourceBid:265 - Database Open COnnection for sqlDB
+2018-09-10 09:59:00 INFO  listTransactionSummaryforSourceBid:273 - Database Close Connection for Automation Management
+2018-09-10 09:59:00 INFO  listTransactionSummaryforSourceBid:294 - JSON Response is <?xml version="1.0" encoding="UTF-8" standalone="yes"?><listTransactionSummaryResponse isError="false"><customer mstrCustId="143312" jobCustAcctId="HOUSTONWW" jobCustId="35817" jobCustName="WHARTON-SMITH INC" mainCusAcctId="HOUSTONWW" mainCustId="35815" mainCustName="WHARTON-SMITH INC" totalBid="0" totalInv="984.97" totalVar="-984.97" openOnBid="0" openNotBid="0" invOnBid="0" invNotBid="984.97"/></listTransactionSummaryResponse>
+2018-09-10 09:59:00 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 10:01:17 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 10:01:19 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 10:01:19 INFO  listTransactionSummaryforSourceBid:99 - Database Open Connection for sqlDB
+2018-09-10 10:01:19 INFO  listTransactionSummaryforSourceBid:105 - Database Close Connection for sqlDB
+2018-09-10 10:01:24 INFO  listTransactionSummaryforSourceBid:127 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 10:01:24 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 10:01:24 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 10:01:24 INFO  listTransactionSummaryforSourceBid:99 - Database Open Connection for sqlDB
+2018-09-10 10:01:24 INFO  listTransactionSummaryforSourceBid:105 - Database Close Connection for sqlDB
+2018-09-10 10:01:24 INFO  listTransactionSummaryforSourceBid:127 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 10:01:24 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 10:01:25 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 10:01:25 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 10:01:25 INFO  listTransactionSummaryforSourceBid:265 - Database Open COnnection for sqlDB
+2018-09-10 10:01:25 INFO  listTransactionSummaryforSourceBid:273 - Database Close Connection for Automation Management
+2018-09-10 10:01:25 INFO  listTransactionSummaryforSourceBid:294 - JSON Response is <?xml version="1.0" encoding="UTF-8" standalone="yes"?><listTransactionSummaryResponse isError="false"><customer mstrCustId="143312" jobCustAcctId="HOUSTONWW" jobCustId="35817" jobCustName="WHARTON-SMITH INC" mainCusAcctId="HOUSTONWW" mainCustId="35815" mainCustName="WHARTON-SMITH INC" totalBid="0" totalInv="984.97" totalVar="-984.97" openOnBid="0" openNotBid="0" invOnBid="0" invNotBid="984.97"/></listTransactionSummaryResponse>
+2018-09-10 10:01:25 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 10:22:15 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 10:22:16 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 10:22:17 INFO  listTransactionSummaryforSourceBid:99 - Database Open Connection for sqlDB
+2018-09-10 10:22:17 INFO  listTransactionSummaryforSourceBid:105 - Database Close Connection for sqlDB
+2018-09-10 10:22:21 INFO  listTransactionSummaryforSourceBid:127 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 10:22:21 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 10:22:22 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 10:22:22 INFO  listTransactionSummaryforSourceBid:99 - Database Open Connection for sqlDB
+2018-09-10 10:22:22 INFO  listTransactionSummaryforSourceBid:105 - Database Close Connection for sqlDB
+2018-09-10 10:22:22 INFO  listTransactionSummaryforSourceBid:127 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 10:22:22 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 10:22:22 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 10:22:22 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 10:22:22 INFO  listTransactionSummaryforSourceBid:265 - Database Open COnnection for sqlDB
+2018-09-10 10:22:22 INFO  listTransactionSummaryforSourceBid:273 - Database Close Connection for Automation Management
+2018-09-10 10:22:22 INFO  listTransactionSummaryforSourceBid:294 - JSON Response is <?xml version="1.0" encoding="UTF-8" standalone="yes"?><listTransactionSummaryResponse isError="false"><customer mstrCustId="143312" jobCustAcctId="HOUSTONWW" jobCustId="35817" jobCustName="WHARTON-SMITH INC" mainCusAcctId="HOUSTONWW" mainCustId="35815" mainCustName="WHARTON-SMITH INC" totalBid="0" totalInv="984.97" totalVar="-984.97" openOnBid="0" openNotBid="0" invOnBid="0" invNotBid="984.97"/></listTransactionSummaryResponse>
+2018-09-10 10:22:23 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 10:32:14 INFO  DatabaseConnection:190 - Database Open Connection for Automation Management
+2018-09-10 10:32:15 INFO  DatabaseConnection:43 - Database Open Connection 
+2018-09-10 10:32:15 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-10 10:32:15 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-10 10:32:19 INFO  listTransactionSummaryforSourceBid:128 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 10:32:19 INFO  DatabaseConnection:43 - Database Open Connection 
+2018-09-10 10:32:19 INFO  DatabaseConnection:43 - Database Open Connection 
+2018-09-10 10:32:19 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-10 10:32:19 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-10 10:32:19 INFO  listTransactionSummaryforSourceBid:128 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 10:32:19 INFO  DatabaseConnection:43 - Database Open Connection 
+2018-09-10 10:32:19 INFO  DatabaseConnection:43 - Database Open Connection 
+2018-09-10 10:32:20 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-10 10:32:21 INFO  DatabaseConnection:190 - Database Open Connection for Automation Management
+2018-09-10 10:32:21 INFO  DatabaseConnection:43 - Database Open Connection 
+2018-09-10 10:32:21 INFO  listTransactionSummaryforSourceBid:266 - Database Open COnnection for sqlDB
+2018-09-10 10:32:21 INFO  listTransactionSummaryforSourceBid:274 - Database Close Connection for Automation Management
+2018-09-10 10:32:21 INFO  listTransactionSummaryforSourceBid:295 - JSON Response is <?xml version="1.0" encoding="UTF-8" standalone="yes"?><listTransactionSummaryResponse isError="false"><customer mstrCustId="143312" jobCustAcctId="HOUSTONWW" jobCustId="35817" jobCustName="WHARTON-SMITH INC" mainCusAcctId="HOUSTONWW" mainCustId="35815" mainCustName="WHARTON-SMITH INC" totalBid="0" totalInv="984.97" totalVar="-984.97" openOnBid="0" openNotBid="0" invOnBid="0" invNotBid="984.97"/></listTransactionSummaryResponse>
+2018-09-10 10:32:21 INFO  DatabaseConnection:43 - Database Open Connection 
+2018-09-10 10:33:05 INFO  DatabaseConnection:190 - Database Open Connection for Automation Management
+2018-09-10 10:37:09 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 10:37:38 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 10:38:10 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 10:42:28 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 10:42:30 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 10:42:30 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-10 10:42:30 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-10 10:42:35 INFO  listTransactionSummaryforSourceBid:128 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 10:42:35 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 10:42:35 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 10:42:35 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-10 10:42:35 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-10 10:42:35 INFO  listTransactionSummaryforSourceBid:128 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 10:42:35 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 10:42:36 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 10:42:36 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 10:42:36 INFO  listTransactionSummaryforSourceBid:266 - Database Open COnnection for sqlDB
+2018-09-10 10:42:36 INFO  listTransactionSummaryforSourceBid:274 - Database Close Connection for Automation Management
+2018-09-10 10:42:36 INFO  listTransactionSummaryforSourceBid:295 - JSON Response is <?xml version="1.0" encoding="UTF-8" standalone="yes"?><listTransactionSummaryResponse isError="false"><customer mstrCustId="143312" jobCustAcctId="HOUSTONWW" jobCustId="35817" jobCustName="WHARTON-SMITH INC" mainCusAcctId="HOUSTONWW" mainCustId="35815" mainCustName="WHARTON-SMITH INC" totalBid="0" totalInv="984.97" totalVar="-984.97" openOnBid="0" openNotBid="0" invOnBid="0" invNotBid="984.97"/></listTransactionSummaryResponse>
+2018-09-10 10:42:36 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 10:50:10 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 10:50:11 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 10:50:11 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-10 10:50:11 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-10 10:50:15 INFO  listTransactionSummaryforSourceBid:128 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 10:50:15 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 10:50:15 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 10:50:15 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-10 10:50:15 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-10 10:50:16 INFO  listTransactionSummaryforSourceBid:128 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-10 10:50:16 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 10:50:17 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-10 10:50:17 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-10 10:50:17 INFO  listTransactionSummaryforSourceBid:266 - Database Open COnnection for sqlDB
+2018-09-10 10:50:17 INFO  listTransactionSummaryforSourceBid:274 - Database Close Connection for Automation Management
+2018-09-10 10:50:17 INFO  listTransactionSummaryforSourceBid:295 - JSON Response is <?xml version="1.0" encoding="UTF-8" standalone="yes"?><listTransactionSummaryResponse isError="false"><customer mstrCustId="143312" jobCustAcctId="HOUSTONWW" jobCustId="35817" jobCustName="WHARTON-SMITH INC" mainCusAcctId="HOUSTONWW" mainCustId="35815" mainCustName="WHARTON-SMITH INC" totalBid="0" totalInv="984.97" totalVar="-984.97" openOnBid="0" openNotBid="0" invOnBid="0" invNotBid="984.97"/></listTransactionSummaryResponse>
+2018-09-10 10:50:17 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-11 02:47:18 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-11 02:47:19 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-11 02:47:20 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-11 02:47:20 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-11 02:47:25 INFO  listTransactionSummaryforSourceBid:128 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-11 02:47:25 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-11 02:47:25 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-11 02:47:25 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-11 02:47:25 INFO  listTransactionSummaryforSourceBid:266 - Database Open COnnection for sqlDB
+2018-09-11 02:47:25 INFO  listTransactionSummaryforSourceBid:274 - Database Close Connection for Automation Management
+2018-09-11 02:47:25 INFO  listTransactionSummaryforSourceBid:295 - JSON Response is <?xml version="1.0" encoding="UTF-8" standalone="yes"?><listTransactionSummaryResponse isError="false"><customer mstrCustId="143312" jobCustAcctId="HOUSTONWW" jobCustId="35817" jobCustName="WHARTON-SMITH INC" mainCusAcctId="HOUSTONWW" mainCustId="35815" mainCustName="WHARTON-SMITH INC" totalBid="0" totalInv="984.97" totalVar="-984.97" openOnBid="0" openNotBid="0" invOnBid="0" invNotBid="984.97"/></listTransactionSummaryResponse>
+2018-09-11 02:47:26 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-11 02:53:00 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-11 02:53:01 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-11 02:53:01 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-11 02:53:01 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-11 02:53:06 INFO  listTransactionSummaryforSourceBid:128 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-11 02:53:06 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-11 02:53:06 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-11 02:53:06 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-11 02:53:06 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-11 02:53:06 INFO  listTransactionSummaryforSourceBid:128 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-11 02:53:06 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-11 02:53:07 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-11 02:53:07 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-11 02:53:07 INFO  listTransactionSummaryforSourceBid:266 - Database Open COnnection for sqlDB
+2018-09-11 02:53:07 INFO  listTransactionSummaryforSourceBid:274 - Database Close Connection for Automation Management
+2018-09-11 02:53:07 INFO  listTransactionSummaryforSourceBid:295 - JSON Response is <?xml version="1.0" encoding="UTF-8" standalone="yes"?><listTransactionSummaryResponse isError="false"><customer mstrCustId="143312" jobCustAcctId="HOUSTONWW" jobCustId="35817" jobCustName="WHARTON-SMITH INC" mainCusAcctId="HOUSTONWW" mainCustId="35815" mainCustName="WHARTON-SMITH INC" totalBid="0" totalInv="984.97" totalVar="-984.97" openOnBid="0" openNotBid="0" invOnBid="0" invNotBid="984.97"/></listTransactionSummaryResponse>
+2018-09-11 02:53:07 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-11 05:12:20 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-11 05:12:22 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-11 05:12:22 INFO  listTransactionSummaryforSourceBid:101 - Database Open Connection for sqlDB
+2018-09-11 05:12:22 INFO  listTransactionSummaryforSourceBid:107 - Database Close Connection for sqlDB
+2018-09-11 05:12:26 INFO  listTransactionSummaryforSourceBid:129 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-11 05:12:26 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-11 05:12:26 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-11 05:12:27 INFO  listTransactionSummaryforSourceBid:101 - Database Open Connection for sqlDB
+2018-09-11 05:12:27 INFO  listTransactionSummaryforSourceBid:107 - Database Close Connection for sqlDB
+2018-09-11 05:12:27 INFO  listTransactionSummaryforSourceBid:129 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-11 05:12:27 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-11 05:12:27 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-11 05:12:27 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-11 05:12:27 INFO  listTransactionSummaryforSourceBid:266 - Database Open COnnection for sqlDB
+2018-09-11 05:12:27 INFO  listTransactionSummaryforSourceBid:274 - Database Close Connection for Automation Management
+2018-09-11 05:12:27 INFO  listTransactionSummaryforSourceBid:295 - JSON Response is <?xml version="1.0" encoding="UTF-8" standalone="yes"?><listTransactionSummaryResponse isError="false"><customer mstrCustId="143312" jobCustAcctId="HOUSTONWW" jobCustId="35817" jobCustName="WHARTON-SMITH INC" mainCusAcctId="HOUSTONWW" mainCustId="35815" mainCustName="WHARTON-SMITH INC" totalBid="0" totalInv="984.97" totalVar="-984.97" openOnBid="0" openNotBid="0" invOnBid="0" invNotBid="984.97"/></listTransactionSummaryResponse>
+2018-09-11 05:12:28 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-11 06:29:04 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-11 06:29:05 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-11 06:29:05 INFO  listTransactionSummaryforSourceBid:101 - Database Open Connection for sqlDB
+2018-09-11 06:29:06 INFO  listTransactionSummaryforSourceBid:107 - Database Close Connection for sqlDB
+2018-09-11 06:29:10 INFO  listTransactionSummaryforSourceBid:129 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-11 06:29:10 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-11 06:29:10 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-11 06:29:10 INFO  listTransactionSummaryforSourceBid:101 - Database Open Connection for sqlDB
+2018-09-11 06:29:10 INFO  listTransactionSummaryforSourceBid:107 - Database Close Connection for sqlDB
+2018-09-11 06:29:10 INFO  listTransactionSummaryforSourceBid:129 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-11 06:29:10 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-11 06:29:11 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-11 06:29:11 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-11 06:29:11 INFO  listTransactionSummaryforSourceBid:266 - Database Open COnnection for sqlDB
+2018-09-11 06:29:11 INFO  listTransactionSummaryforSourceBid:274 - Database Close Connection for Automation Management
+2018-09-11 06:29:11 INFO  listTransactionSummaryforSourceBid:295 - JSON Response is <?xml version="1.0" encoding="UTF-8" standalone="yes"?><listTransactionSummaryResponse isError="false"><customer mstrCustId="143312" jobCustAcctId="HOUSTONWW" jobCustId="35817" jobCustName="WHARTON-SMITH INC" mainCusAcctId="HOUSTONWW" mainCustId="35815" mainCustName="WHARTON-SMITH INC" totalBid="0" totalInv="984.97" totalVar="-984.97" openOnBid="0" openNotBid="0" invOnBid="0" invNotBid="984.97"/></listTransactionSummaryResponse>
+2018-09-11 06:29:11 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-11 07:30:02 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-11 07:30:03 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-11 07:30:03 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-11 07:30:04 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-11 07:30:08 INFO  listTransactionSummaryforSourceBid:128 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-11 07:30:08 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-11 07:30:09 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-11 07:30:09 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-11 07:30:09 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-11 07:30:09 INFO  listTransactionSummaryforSourceBid:128 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-11 07:30:09 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-11 07:30:09 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-11 07:30:09 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-11 07:30:09 INFO  listTransactionSummaryforSourceBid:265 - Database Open COnnection for sqlDB
+2018-09-11 07:30:09 INFO  listTransactionSummaryforSourceBid:273 - Database Close Connection for Automation Management
+2018-09-11 07:30:09 INFO  listTransactionSummaryforSourceBid:294 - JSON Response is <?xml version="1.0" encoding="UTF-8" standalone="yes"?><listTransactionSummaryResponse isError="false"><customer mstrCustId="143312" jobCustAcctId="HOUSTONWW" jobCustId="35817" jobCustName="WHARTON-SMITH INC" mainCusAcctId="HOUSTONWW" mainCustId="35815" mainCustName="WHARTON-SMITH INC" totalBid="0" totalInv="984.97" totalVar="-984.97" openOnBid="0" openNotBid="0" invOnBid="0" invNotBid="984.97"/></listTransactionSummaryResponse>
+2018-09-11 07:30:10 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-18 04:40:20 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-18 04:40:22 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-18 04:40:22 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-18 04:40:23 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-18 04:40:51 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-18 04:40:52 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-18 04:40:52 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-18 04:40:52 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-18 04:41:37 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-18 04:41:39 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-18 04:41:39 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-18 04:41:39 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-19 02:50:55 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-19 02:50:57 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 02:50:57 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-19 02:50:57 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-19 02:54:43 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-19 02:54:44 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 02:54:44 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-19 02:54:44 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-19 02:54:49 INFO  listTransactionSummaryforSourceBid:128 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-19 02:54:50 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 02:54:50 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 02:54:50 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-19 02:54:50 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-19 02:54:50 INFO  listTransactionSummaryforSourceBid:128 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-19 02:54:50 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 02:55:48 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-19 02:55:49 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 02:55:49 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-19 02:55:50 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-19 02:55:54 INFO  listTransactionSummaryforSourceBid:128 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-19 02:55:54 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 02:55:54 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 02:55:54 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-19 02:55:54 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-19 02:55:54 INFO  listTransactionSummaryforSourceBid:128 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-19 02:55:54 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 02:55:55 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-19 02:55:55 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 02:55:55 INFO  listTransactionSummaryforSourceBid:274 - Database Open COnnection for sqlDB
+2018-09-19 02:55:55 INFO  listTransactionSummaryforSourceBid:282 - Database Close Connection for Automation Management
+2018-09-19 02:55:55 INFO  listTransactionSummaryforSourceBid:303 - JSON Response is <?xml version="1.0" encoding="UTF-8" standalone="yes"?><listTransactionSummaryResponse isError="false"><customer mstrCustId="143312" jobCustAcctId="HOUSTONWW" jobCustId="35817" jobCustName="WHARTON-SMITH INC" mainCusAcctId="HOUSTONWW" mainCustId="35815" mainCustName="WHARTON-SMITH INC" totalBid="0" totalInv="984.97" totalVar="-984.97" openOnBid="0" openNotBid="0" invOnBid="0" invNotBid="984.97"/></listTransactionSummaryResponse>
+2018-09-19 02:55:55 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 03:04:10 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-19 03:04:11 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 03:04:11 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-19 03:04:11 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-19 03:04:15 INFO  listTransactionSummaryforSourceBid:128 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-19 03:04:16 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 03:04:16 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 03:04:16 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-19 03:04:16 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-19 03:04:16 INFO  listTransactionSummaryforSourceBid:128 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-19 03:04:16 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 03:04:17 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-19 03:04:17 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 03:04:17 INFO  listTransactionSummaryforSourceBid:274 - Database Open COnnection for sqlDB
+2018-09-19 03:04:17 INFO  listTransactionSummaryforSourceBid:282 - Database Close Connection for Automation Management
+2018-09-19 03:04:17 INFO  listTransactionSummaryforSourceBid:303 - JSON Response is <?xml version="1.0" encoding="UTF-8" standalone="yes"?><listTransactionSummaryResponse isError="false"><customer mstrCustId="143312" jobCustAcctId="HOUSTONWW" jobCustId="35817" jobCustName="WHARTON-SMITH INC" mainCusAcctId="HOUSTONWW" mainCustId="35815" mainCustName="WHARTON-SMITH INC" totalBid="0" totalInv="984.97" totalVar="-984.97" openOnBid="0" openNotBid="0" invOnBid="0" invNotBid="984.97"/></listTransactionSummaryResponse>
+2018-09-19 03:04:17 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 03:05:59 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-19 03:06:00 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 03:06:00 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-19 03:06:00 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-19 03:06:05 INFO  listTransactionSummaryforSourceBid:128 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-19 03:06:05 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 03:06:05 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 03:06:05 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-19 03:06:05 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-19 03:06:05 INFO  listTransactionSummaryforSourceBid:128 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-19 03:06:05 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 03:06:06 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-19 03:06:06 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 03:06:06 INFO  listTransactionSummaryforSourceBid:274 - Database Open COnnection for sqlDB
+2018-09-19 03:06:06 INFO  listTransactionSummaryforSourceBid:282 - Database Close Connection for Automation Management
+2018-09-19 03:06:06 INFO  listTransactionSummaryforSourceBid:303 - JSON Response is <?xml version="1.0" encoding="UTF-8" standalone="yes"?><listTransactionSummaryResponse isError="false"><customer mstrCustId="143312" jobCustAcctId="HOUSTONWW" jobCustId="35817" jobCustName="WHARTON-SMITH INC" mainCusAcctId="HOUSTONWW" mainCustId="35815" mainCustName="WHARTON-SMITH INC" totalBid="0" totalInv="984.97" totalVar="-984.97" openOnBid="0" openNotBid="0" invOnBid="0" invNotBid="984.97"/></listTransactionSummaryResponse>
+2018-09-19 03:06:06 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 04:50:07 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-19 04:50:09 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 04:50:09 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-19 04:50:09 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-19 04:50:14 INFO  listTransactionSummaryforSourceBid:128 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-19 04:50:14 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 04:50:14 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 04:50:14 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-19 04:50:14 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-19 04:50:15 INFO  listTransactionSummaryforSourceBid:128 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-19 04:50:15 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 04:50:16 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-19 04:50:16 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 04:50:16 INFO  listTransactionSummaryforSourceBid:274 - Database Open COnnection for sqlDB
+2018-09-19 04:50:16 INFO  listTransactionSummaryforSourceBid:282 - Database Close Connection for Automation Management
+2018-09-19 04:50:16 INFO  listTransactionSummaryforSourceBid:303 - JSON Response is <?xml version="1.0" encoding="UTF-8" standalone="yes"?><listTransactionSummaryResponse isError="false"><customer mstrCustId="143312" jobCustAcctId="HOUSTONWW" jobCustId="35817" jobCustName="WHARTON-SMITH INC" mainCusAcctId="HOUSTONWW" mainCustId="35815" mainCustName="WHARTON-SMITH INC" totalBid="0" totalInv="984.97" totalVar="-984.97" openOnBid="0" openNotBid="0" invOnBid="0" invNotBid="984.97"/></listTransactionSummaryResponse>
+2018-09-19 04:50:16 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 07:55:28 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-19 07:55:30 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 07:55:30 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-19 07:55:30 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-19 07:55:35 INFO  listTransactionSummaryforSourceBid:128 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-19 07:55:35 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 07:55:35 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 07:55:35 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-19 07:55:35 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-19 07:55:35 INFO  listTransactionSummaryforSourceBid:128 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-19 07:55:35 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 07:55:36 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-19 07:55:36 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 07:55:36 INFO  listTransactionSummaryforSourceBid:274 - Database Open COnnection for sqlDB
+2018-09-19 07:55:36 INFO  listTransactionSummaryforSourceBid:282 - Database Close Connection for Automation Management
+2018-09-19 07:55:36 INFO  listTransactionSummaryforSourceBid:303 - JSON Response is <?xml version="1.0" encoding="UTF-8" standalone="yes"?><listTransactionSummaryResponse isError="false"><customer mstrCustId="143312" jobCustAcctId="HOUSTONWW" jobCustId="35817" jobCustName="WHARTON-SMITH INC" mainCusAcctId="HOUSTONWW" mainCustId="35815" mainCustName="WHARTON-SMITH INC" totalBid="0" totalInv="984.97" totalVar="-984.97" openOnBid="0" openNotBid="0" invOnBid="0" invNotBid="984.97"/></listTransactionSummaryResponse>
+2018-09-19 07:55:36 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 08:34:58 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-19 08:35:00 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 08:35:00 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-19 08:35:00 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-19 08:35:05 INFO  listTransactionSummaryforSourceBid:128 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-19 08:35:05 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 08:35:05 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 08:35:05 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-19 08:35:05 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-19 08:35:05 INFO  listTransactionSummaryforSourceBid:128 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-19 08:35:05 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 08:35:06 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-19 08:35:06 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 08:35:06 INFO  listTransactionSummaryforSourceBid:274 - Database Open COnnection for sqlDB
+2018-09-19 08:35:06 INFO  listTransactionSummaryforSourceBid:282 - Database Close Connection for Automation Management
+2018-09-19 08:35:06 INFO  listTransactionSummaryforSourceBid:303 - JSON Response is <?xml version="1.0" encoding="UTF-8" standalone="yes"?><listTransactionSummaryResponse isError="false"><customer mstrCustId="143312" jobCustAcctId="HOUSTONWW" jobCustId="35817" jobCustName="WHARTON-SMITH INC" mainCusAcctId="HOUSTONWW" mainCustId="35815" mainCustName="WHARTON-SMITH INC" totalBid="0" totalInv="984.97" totalVar="-984.97" openOnBid="0" openNotBid="0" invOnBid="0" invNotBid="984.97"/></listTransactionSummaryResponse>
+2018-09-19 08:35:06 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 09:27:06 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-19 09:27:07 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 09:27:08 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-19 09:27:08 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-19 09:27:12 INFO  listTransactionSummaryforSourceBid:128 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-19 09:27:12 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 09:27:12 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 09:27:12 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-19 09:27:12 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-19 09:27:12 INFO  listTransactionSummaryforSourceBid:128 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-19 09:27:12 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 09:27:13 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-19 09:27:13 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 09:27:14 INFO  listTransactionSummaryforSourceBid:274 - Database Open COnnection for sqlDB
+2018-09-19 09:27:14 INFO  listTransactionSummaryforSourceBid:282 - Database Close Connection for Automation Management
+2018-09-19 09:27:14 INFO  listTransactionSummaryforSourceBid:303 - JSON Response is <?xml version="1.0" encoding="UTF-8" standalone="yes"?><listTransactionSummaryResponse isError="false"><customer mstrCustId="143312" jobCustAcctId="HOUSTONWW" jobCustId="35817" jobCustName="WHARTON-SMITH INC" mainCusAcctId="HOUSTONWW" mainCustId="35815" mainCustName="WHARTON-SMITH INC" totalBid="0" totalInv="984.97" totalVar="-984.97" openOnBid="0" openNotBid="0" invOnBid="0" invNotBid="984.97"/></listTransactionSummaryResponse>
+2018-09-19 09:27:14 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 09:30:11 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-19 09:30:13 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 09:30:13 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-19 09:30:13 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-19 09:30:18 INFO  listTransactionSummaryforSourceBid:128 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-19 09:30:18 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 09:30:18 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 09:30:18 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-19 09:30:18 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-19 09:30:18 INFO  listTransactionSummaryforSourceBid:128 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-19 09:30:18 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 09:30:19 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-19 09:30:19 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 09:30:19 INFO  listTransactionSummaryforSourceBid:274 - Database Open COnnection for sqlDB
+2018-09-19 09:30:19 INFO  listTransactionSummaryforSourceBid:282 - Database Close Connection for Automation Management
+2018-09-19 09:30:19 INFO  listTransactionSummaryforSourceBid:303 - JSON Response is <?xml version="1.0" encoding="UTF-8" standalone="yes"?><listTransactionSummaryResponse isError="false"><customer mstrCustId="143312" jobCustAcctId="HOUSTONWW" jobCustId="35817" jobCustName="WHARTON-SMITH INC" mainCusAcctId="HOUSTONWW" mainCustId="35815" mainCustName="WHARTON-SMITH INC" totalBid="0" totalInv="984.97" totalVar="-984.97" openOnBid="0" openNotBid="0" invOnBid="0" invNotBid="984.97"/></listTransactionSummaryResponse>
+2018-09-19 09:30:19 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 09:36:26 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-19 09:36:27 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 09:36:27 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-19 09:36:28 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-19 09:36:32 INFO  listTransactionSummaryforSourceBid:128 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-19 09:36:32 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 09:36:32 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 09:36:32 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-19 09:36:32 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-19 09:36:32 INFO  listTransactionSummaryforSourceBid:128 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-19 09:36:32 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 09:36:33 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-19 09:36:33 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 09:36:33 INFO  listTransactionSummaryforSourceBid:261 - Database Open COnnection for sqlDB
+2018-09-19 09:36:33 INFO  listTransactionSummaryforSourceBid:269 - Database Close Connection for Automation Management
+2018-09-19 09:36:33 INFO  listTransactionSummaryforSourceBid:290 - JSON Response is <?xml version="1.0" encoding="UTF-8" standalone="yes"?><listTransactionSummaryResponse isError="false"><customer mstrCustId="143312" jobCustAcctId="HOUSTONWW" jobCustId="35817" jobCustName="WHARTON-SMITH INC" mainCusAcctId="HOUSTONWW" mainCustId="35815" mainCustName="WHARTON-SMITH INC" totalBid="0" totalInv="984.97" totalVar="-984.97" openOnBid="0" openNotBid="0" invOnBid="0" invNotBid="984.97"/></listTransactionSummaryResponse>
+2018-09-19 09:36:34 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 09:53:47 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-19 09:53:49 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 09:53:49 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-19 09:53:49 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-19 09:53:53 INFO  listTransactionSummaryforSourceBid:130 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-19 09:53:53 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 09:53:53 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 09:53:53 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-19 09:53:53 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-19 09:53:54 INFO  listTransactionSummaryforSourceBid:130 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-19 09:53:54 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 09:53:54 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-19 09:53:54 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 09:53:54 INFO  listTransactionSummaryforSourceBid:263 - Database Open COnnection for sqlDB
+2018-09-19 09:53:54 INFO  listTransactionSummaryforSourceBid:271 - Database Close Connection for Automation Management
+2018-09-19 09:53:54 INFO  listTransactionSummaryforSourceBid:292 - JSON Response is <?xml version="1.0" encoding="UTF-8" standalone="yes"?><listTransactionSummaryResponse isError="false"><customer mstrCustId="143312" jobCustAcctId="HOUSTONWW" jobCustId="35817" jobCustName="WHARTON-SMITH INC" mainCusAcctId="HOUSTONWW" mainCustId="35815" mainCustName="WHARTON-SMITH INC" totalBid="0" totalInv="984.97" totalVar="-984.97" openOnBid="0" openNotBid="0" invOnBid="0" invNotBid="984.97"/></listTransactionSummaryResponse>
+2018-09-19 09:53:55 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 10:15:37 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-19 10:15:38 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 10:15:38 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-19 10:15:38 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-19 10:15:42 INFO  listTransactionSummaryforSourceBid:130 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-19 10:15:43 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 10:15:43 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 10:15:43 INFO  listTransactionSummaryforSourceBid:100 - Database Open Connection for sqlDB
+2018-09-19 10:15:43 INFO  listTransactionSummaryforSourceBid:106 - Database Close Connection for sqlDB
+2018-09-19 10:15:43 INFO  listTransactionSummaryforSourceBid:130 - JSON Response is {"listTransactionSummaryResponse":{"isError":false,"customer":[{"customer":{"mstrCustId":"143312","jobCustAcctId":"HOUSTONWW","jobCustId":"35817","jobCustName":"WHARTON-SMITH INC","mainCusAcctId":"HOUSTONWW","mainCustId":"35815","mainCustName":"WHARTON-SMITH INC","totalBid":"0","totalInv":"984.97","totalVar":"-984.97","openOnBid":"0","openNotBid":"0","invOnBid":"0","invNotBid":"984.97"}}]}}
+2018-09-19 10:15:43 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 10:15:44 INFO  DatabaseConnection:189 - Database Open Connection for Automation Management
+2018-09-19 10:15:44 INFO  DatabaseConnection:42 - Database Open Connection 
+2018-09-19 10:15:44 INFO  listTransactionSummaryforSourceBid:263 - Database Open COnnection for sqlDB
+2018-09-19 10:15:44 INFO  listTransactionSummaryforSourceBid:271 - Database Close Connection for Automation Management
+2018-09-19 10:15:44 INFO  listTransactionSummaryforSourceBid:292 - JSON Response is <?xml version="1.0" encoding="UTF-8" standalone="yes"?><listTransactionSummaryResponse isError="false"><customer mstrCustId="143312" jobCustAcctId="HOUSTONWW" jobCustId="35817" jobCustName="WHARTON-SMITH INC" mainCusAcctId="HOUSTONWW" mainCustId="35815" mainCustName="WHARTON-SMITH INC" totalBid="0" totalInv="984.97" totalVar="-984.97" openOnBid="0" openNotBid="0" invOnBid="0" invNotBid="984.97"/></listTransactionSummaryResponse>
+2018-09-19 10:15:44 INFO  DatabaseConnection:42 - Database Open Connection 

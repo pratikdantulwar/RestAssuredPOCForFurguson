@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="SalesOrder(failed)">
+    <classes>
+      <class name="TestRestAPI.SalesOrder.listTransactionSummaryforSourceBid">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="MTC002_VerifyResponseForValid_MstrCustID_accept_XML"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- TestRestAPI.SalesOrder.listTransactionSummaryforSourceBid -->
+    </classes>
+  </test> <!-- SalesOrder(failed) -->
+</suite> <!-- Failed suite [Suite] -->
